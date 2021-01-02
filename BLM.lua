@@ -1,7 +1,7 @@
 return {
     "Spaekona's Coat +2",
     "Spae. Gloves +2",
-    "Arch. Petasos +1",
+    "Arch. Petasos +3",
     "Arch. Gloves +1",
     "Arch. Coat +3",
     "Arch. Tonban +3",
