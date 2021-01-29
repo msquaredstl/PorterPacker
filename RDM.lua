@@ -6,7 +6,7 @@ return {
     "Atrophy Boots +1",
     "Viti. Chapeau +3",
     "Viti. Tabard +3",
-    "Viti. Gloves +1",
+    "Viti. Gloves +3",
     "Viti. Tights +3",
     "Vitiation Boots +2",
     "Leth. Chappel +1",

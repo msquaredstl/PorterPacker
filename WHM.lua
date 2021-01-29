@@ -6,6 +6,7 @@ return {
     "Piety Briault +1",
     "Piety Pantaln. +1",
     "Piety Duckbills +1",
+	"Piety Mitts +3",
     "Ebers Cap +1",
     "Ebers Bliaud +1",
     "Ebers Pant. +1",
