@@ -22,4 +22,5 @@ return {
 	"Jhakri Pigaches +2",
     "Mallquis Ring",
     "Jhakri Ring",
+	"Kaja Grip",
 }

@@ -20,4 +20,8 @@ return {
     "Jhakri Slops +2",
     "Jhakri Robe +2",
 	"Jhakri Pigaches +2",
+	"Naegling",
+	"Tauret",
+	"Kaja Bow",
+	"Kaja Grip",
 }

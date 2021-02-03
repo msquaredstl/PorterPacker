@@ -18,4 +18,5 @@ return {
     "Mummu Kecks +2",
     "Meghanada Ring",
     "Mummu Ring",
+	"Tauret",
 }
